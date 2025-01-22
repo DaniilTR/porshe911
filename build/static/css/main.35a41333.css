@@ -1,0 +1,2 @@
+*{margin:0;padding:0}.container{height:100vh;position:relative}.container,canvas{max-width:calc(100% - 20px)}canvas{display:block}.title{color:#333;font-family:Arial,sans-serif;font-size:3.5rem;font-weight:700;left:50%;pointer-events:none;position:absolute;text-shadow:2px 2px 4px #00000080;top:15%;transform:translate(-50%,-50%)}.info-text{color:#333;font-size:1.7rem;line-height:1.8;max-width:400px;transition:all .3s ease-in-out}
+/*# sourceMappingURL=main.35a41333.css.map*/
