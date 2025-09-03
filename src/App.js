@@ -6,7 +6,9 @@ import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
 import { gsap } from 'gsap';
 
-const App = () => {
+let App;
+
+App = () => {
   const modelRef = useRef(null);
   const cameraRef = useRef(null);
   const containerRef = useRef(null);
